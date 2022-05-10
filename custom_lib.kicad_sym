@@ -6,7 +6,7 @@
     (property "Value" "CH583M" (id 1) (at 0 1.27 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (id 2) (at -4.826 -26.924 0)
+    (property "Footprint" "Package_DFN_QFN:QFN-48-1EP_5x5mm_P0.35mm_EP3.7x3.7mm_ThermalVias" (id 2) (at -4.826 -26.924 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at -4.826 -26.924 0)
